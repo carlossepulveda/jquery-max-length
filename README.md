@@ -4,7 +4,7 @@ jquery-max-length
 Plugin jquery to manage max number of characters into a textfield.
 
 
-<b>Uso :</b>
+<b>How to use ? :</b>
 
     $('.selector').maxlength({
         maxLength : 5,
@@ -12,7 +12,7 @@ Plugin jquery to manage max number of characters into a textfield.
         disableEvent : function () {}
     });
 
-<b>En donde : </b>
+<b>Where : </b>
 
     maxLength : max number of characters.
     disableEvent : Callback event triggered by completed max number of character.
