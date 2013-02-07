@@ -1,7 +1,7 @@
 jquery-max-length
 =================
 
-Plugin jquery para gestionar el numero maximo de caracteres que recibe un campo de texto
+Plugin jquery to manage max number of characters into a textfield.
 
 
 <b>Uso :</b>
@@ -14,7 +14,7 @@ Plugin jquery para gestionar el numero maximo de caracteres que recibe un campo 
 
 <b>En donde : </b>
 
-    maxLength : cantidad maxima de caracteres que permite el textfield
-    disableEvent : callback llamado al momento de completar el tope maximo de caracteres
-    enableEvent : callback llamado al momento en el cual el textfield vuelve a tener una cantidad de caracteres inferior al tope maximo.
+    maxLength : max number of characters.
+    disableEvent : Callback event triggered by completed max number of character.
+    enableEvent : Callback event triggered when the textfield have again a number of character less than maxLength.
 
